@@ -1,0 +1,2 @@
+"0","#mengeset data"
+"0","new_data <- subset(PimaIndiansDiabetes, select = c(glucose, pressure, mass, age, diabetes))"

@@ -1,0 +1,3 @@
+"0","library(mlbench)"
+"0","data(PimaIndiansDiabetes) "
+"0","head(PimaIndiansDiabetes)"
